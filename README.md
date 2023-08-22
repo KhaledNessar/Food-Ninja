@@ -9,7 +9,7 @@ Created this Recipe Webpage using Tailwind CSS
    
    ![image](https://github.com/KhaledNessar/Payment-Details/assets/141129198/9685e398-509e-4c64-814f-8c231a2087f4)
 
-3. So sollte es dann aussehen:
+3. So sollte es dann im Browser Tab aussehen:
    ![image](https://github.com/KhaledNessar/Food-Ninja/assets/141129198/89fd6b05-12ad-4292-8809-758b5627938e)
 
 
