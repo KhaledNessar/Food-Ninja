@@ -19,5 +19,6 @@
   "homepage": "https://github.com/iamshaunjp/tailwind-tutorial#readme",
   "dependencies": {
     "tailwindcss": "^1.4.6"
-  }
+  },
+  "devDependencies": {}
 }
